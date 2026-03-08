@@ -7,7 +7,6 @@
 
 A production-quality personal book management application with a **JIRA-inspired dashboard aesthetic**. Track your reading journey with features like time-aware greetings, auto-generated cover colors, reading streaks, and full CRUD operations.
 
-![Dashboard Screenshot]([screenshot-placeholder.png](https://i.ibb.co/4nvGN42N/image.png))
 
 ---
 
