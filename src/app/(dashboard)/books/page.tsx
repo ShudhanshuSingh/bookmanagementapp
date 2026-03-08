@@ -30,7 +30,7 @@ export default function BooksPage() {
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
       if (
-        e.key === 'n' &&
+        e.key.toLowerCase() === 'n' &&
         !e.ctrlKey &&
         !e.metaKey &&
         !e.altKey &&

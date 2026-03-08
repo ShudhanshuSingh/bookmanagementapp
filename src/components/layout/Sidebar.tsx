@@ -41,7 +41,7 @@ export default function Sidebar() {
       {/* Logo */}
       <div className="flex items-center gap-3 px-6 py-5 border-b border-gray-100">
         <div className="w-8 h-8 bg-indigo-600 rounded-lg flex items-center justify-center">
-          <span className="text-white font-bold text-sm">PB</span>
+          <span className="text-white font-bold text-sm">BM</span>
         </div>
         <span className="text-lg font-bold text-gray-900">BookManager</span>
       </div>
